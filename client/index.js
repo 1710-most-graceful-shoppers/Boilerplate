@@ -12,3 +12,6 @@ render(
   </Provider>,
   document.getElementById('app')
 );
+
+
+console.log(`sarah's conflict attempt`)
