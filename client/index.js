@@ -13,5 +13,5 @@ render(
   document.getElementById('app')
 );
 
-
 console.log(`sarah's conflict attempt`)
+console.log('conflict!')
